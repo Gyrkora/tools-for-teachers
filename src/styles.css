@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #001f3f;
+  color: white;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  text-align: center;
+  width: 90%;
+  max-width: 800px;
+  border: 2px solid gold;
+  padding: 20px;
+  border-radius: 10px;
+  background: linear-gradient(145deg, #001a33, #003366);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.textarea-container {
+  margin-bottom: 20px;
+}
+
+.textarea {
+  width: 90%;
+  height: 100px;
+  padding: 10px;
+  border: 2px solid gold;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #004080;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0059b3;
+}
+
+.quiz-container {
+  text-align: center;
+}
+
+.question {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+}
+
+.options button {
+  background-color: #004080;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.options button:hover {
+  background-color: #0059b3;
+}
+
+.options button.correct {
+  background-color: #28a745;
+}
+
+.options button.wrong {
+  background-color: #dc3545;
+}
+
+.status {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
