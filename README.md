@@ -1,8 +1,34 @@
-# React + Vite
+Ejemplo formato preguntas:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[
+{
+"question": "¿Cuál es la capital de Francia?",
+"options": ["Madrid", "París", "Berlín", "Roma"],
+"correct": 1
+},
+{
+"question": "¿Quién pintó la Mona Lisa?",
+"options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+"correct": 2
+},
+{
+"question": "¿Cuál es el planeta más grande del sistema solar?",
+"options": ["Júpiter", "Saturno", "Tierra", "Marte"],
+"correct": 0
+},
+{
+"question": "¿Qué idioma se habla principalmente en Brasil?",
+"options": ["Español", "Portugués", "Francés", "Inglés"],
+"correct": 1
+},
+{
+"question": "¿Qué es el 'Teorema de Pitágoras'?",
+"options": [
+"Una fórmula matemática",
+"Un libro de filosofía",
+"Una pintura famosa",
+"Un instrumento musical"
+],
+"correct": 0
+}
+]

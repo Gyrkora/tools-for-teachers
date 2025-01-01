@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Question from './Question';
 
-function Quiz({ quizData }) {
+function QuizGame({ quizData }) {
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [score, setScore] = useState(0);
     const [selected, setSelected] = useState(null);
@@ -49,4 +49,4 @@ function Quiz({ quizData }) {
     );
 }
 
-export default Quiz;
+export default QuizGame;
