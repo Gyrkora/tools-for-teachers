@@ -10,7 +10,7 @@ function Home() {
                     Quién Quiere Ser Millonario
                 </Link>
                 <button className="tool-button" disabled>
-                    Otra Herramienta (Próximamente)
+                    Otras Herramientas (Próximamente)
                 </button>
             </div>
         </div>

@@ -1,5 +1,3 @@
-Ejemplo formato preguntas:
-
 [
 {
 "question": "¿Cuál es la capital de Francia?",

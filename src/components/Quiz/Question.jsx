@@ -1,11 +1,13 @@
 import React from 'react';
 
-function Question({ data, handleAnswer, selected }) {
+function Question({ data, handleAnswer, selected, remainingOptions }) {
+    const optionsToShow = remainingOptions || data.options.map((_, index) => index); // Mostrar todas si no hay comodín activo
+
     return (
         <div>
             <div className="question">{data.question}</div>
             <div className="options">
-                {data.options.map((option, index) => (
+                {optionsToShow.map((index) => (
                     <button
                         key={index}
                         onClick={() => handleAnswer(index)}
@@ -20,7 +22,7 @@ function Question({ data, handleAnswer, selected }) {
                         }`}
                         disabled={selected !== null}
                     >
-                        {option}
+                        {data.options[index]}
                     </button>
                 ))}
             </div>

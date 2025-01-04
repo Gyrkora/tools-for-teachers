@@ -84,3 +84,127 @@ body {
   margin-top: 20px;
   font-size: 1.2em;
 }
+
+.tool-button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #ffa500;
+  /* Naranja */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.tool-button:hover {
+  background-color: #ffcc80;
+  /* Naranja más claro al pasar el cursor */
+}
+
+.tool-button.disabled {
+  background-color: #888;
+  /* Gris para indicar deshabilitado */
+  cursor: not-allowed;
+  opacity: 0.6;
+  /* Más tenue */
+}
+
+.audience-chart {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  /* Ensures bars align at the bottom */
+  height: 150px;
+  /* Set the max height for the bars */
+  background-color: #00264d;
+  /* Optional: Adds a subtle background for visibility */
+  border: 1px solid #007bff;
+  /* Optional: Adds a border around the chart */
+}
+
+.audience-bar-container {
+  text-align: center;
+  width: 20%;
+  /* Evenly space the bars */
+  position: relative;
+  /* For better positioning of labels */
+}
+
+.audience-bar {
+  background-color: #007bff;
+  /* Default bar color */
+  width: 80%;
+  /* Full width of its container */
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: white;
+  font-size: 0.9em;
+  border-radius: 5px 5px 0 0;
+  /* Rounded top corners */
+  transition: height 0.3s ease;
+  /* Smooth height transition */
+}
+
+.audience-option {
+  margin-top: 10px;
+  /* Space between the bar and the option */
+  font-size: 0.9em;
+  color: white;
+  text-align: center;
+  position: absolute;
+  /* Align text below the bar */
+  bottom: -25px;
+  width: 100%;
+}
+
+.manual-hint-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.manual-hint-textarea {
+  width: 90%;
+  max-width: 300px;
+  height: 100px;
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  resize: none;
+  margin-bottom: 10px;
+}
+
+.tool-button {
+  background-color: #ffa500;
+  /* Naranja para botones */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-top: 10px;
+}
+
+.tool-button.disabled {
+  background-color: #888;
+  /* Gris para indicar deshabilitado */
+  cursor: not-allowed;
+}
+
+.manual-hint {
+  margin-top: 20px;
+  background-color: #1a1a1a;
+  color: #00ffcc;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
