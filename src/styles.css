@@ -208,3 +208,53 @@ body {
   font-size: 1em;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
+
+
+/* Estilos para el modal */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.manual-hint-textarea {
+  width: 100%;
+  height: 100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  resize: none;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tool-button.cancel {
+  background-color: #ff4d4d;
+}
+
+.tool-button.cancel:hover {
+  background-color: #ff6666;
+}

@@ -82,8 +82,8 @@ function QuizGame({ quizData }) {
     };
 
     const saveManualHint = (hint) => {
-        setManualHint(hint);
-        setManualHintUsed(true);
+        setManualHint(hint); // Store the hint
+        setManualHintUsed(true); // Disable the manual hint button
     };
 
     return (
