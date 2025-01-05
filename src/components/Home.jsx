@@ -9,6 +9,12 @@ function Home() {
                 <Link to="/quiz" className="tool-button">
                     Quién Quiere Ser Millonario
                 </Link>
+                <Link to="/match-ideas" className="tool-button">
+                    Mezcla ideas
+                </Link>
+                <Link to="/operaciones-aleatorias" className="tool-button">
+                    Operaciones Aleatorias
+                </Link>
                 <button className="tool-button" disabled>
                     Otras Herramientas (Próximamente)
                 </button>

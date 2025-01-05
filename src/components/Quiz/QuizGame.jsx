@@ -1,21 +1,35 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Question from './Question';
 import FiftyFiftyButton from './lifelines/FiftyFiftyButton';
 import AudienceHelpButton from './lifelines/AudienceHelpButton';
 import ManualHintButton from './lifelines/ManualHintButton';
-// import './lifelines/LifelineStyles.css';
 
 function QuizGame({ quizData }) {
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [score, setScore] = useState(0);
     const [selected, setSelected] = useState(null);
     const [status, setStatus] = useState('');
-    const [remainingOptions, setRemainingOptions] = useState(null);
+    const [remainingOptions, setRemainingOptions] = useState(null); // Opciones restantes después de usar 50/50
     const [fiftyUsed, setFiftyUsed] = useState(false);
     const [audienceHelpUsed, setAudienceHelpUsed] = useState(false);
     const [manualHintUsed, setManualHintUsed] = useState(false);
     const [manualHint, setManualHint] = useState('');
-    const [audienceData, setAudienceData] = useState(null);
+    const [audienceData, setAudienceData] = useState(null); // Datos de ayuda del público
+
+    useEffect(() => {
+        const handleHintMessage = (event) => {
+            if (event.data && event.data.hint) {
+                setManualHint(event.data.hint); // Guardar la pista
+                setManualHintUsed(true); // Deshabilitar el botón
+            }
+        };
+
+        window.addEventListener('message', handleHintMessage);
+
+        return () => {
+            window.removeEventListener('message', handleHintMessage);
+        };
+    }, []);
 
     const handleAnswer = (selectedIndex) => {
         if (selected !== null) return;
@@ -43,7 +57,7 @@ function QuizGame({ quizData }) {
             } else {
                 setStatus(`Juego terminado. Tu puntuación es ${score + 1} de ${quizData.length}`);
             }
-        }, 2000);
+        }, 1000);
     };
 
     const handleFiftyFifty = () => {
@@ -53,6 +67,7 @@ function QuizGame({ quizData }) {
         const correctIndex = quizData[currentQuestion].correct;
         const options = quizData[currentQuestion].options;
 
+        // Selecciona dos opciones: la correcta y una incorrecta aleatoria
         const remaining = [correctIndex];
         while (remaining.length < 2) {
             const randomIndex = Math.floor(Math.random() * options.length);
@@ -71,19 +86,16 @@ function QuizGame({ quizData }) {
         const correctIndex = quizData[currentQuestion].correct;
         const optionsCount = quizData[currentQuestion].options.length;
 
+        // Generar porcentajes aleatorios con mayor peso en la respuesta correcta
         const percentages = Array.from({ length: optionsCount }, (_, i) =>
             i === correctIndex ? Math.random() * 50 + 50 : Math.random() * 50
         );
 
+        // Normalizar porcentajes para que sumen 100
         const total = percentages.reduce((sum, p) => sum + p, 0);
         const normalizedPercentages = percentages.map((p) => Math.round((p / total) * 100));
 
         setAudienceData(normalizedPercentages);
-    };
-
-    const saveManualHint = (hint) => {
-        setManualHint(hint); // Store the hint
-        setManualHintUsed(true); // Disable the manual hint button
     };
 
     return (
@@ -102,13 +114,12 @@ function QuizGame({ quizData }) {
                     <div className="tools">
                         <FiftyFiftyButton onUse={handleFiftyFifty} isDisabled={fiftyUsed} />
                         <AudienceHelpButton onUse={handleAudienceHelp} isDisabled={audienceHelpUsed} />
-                        <ManualHintButton onSaveHint={saveManualHint} isDisabled={manualHintUsed} />
+                        <ManualHintButton
+                            onSaveHint={(hint) => setManualHint(hint)}
+                            isDisabled={manualHintUsed}
+                        />
                     </div>
-                    {manualHint && (
-                        <div className="manual-hint">
-                            <strong>Pista Manual:</strong> {manualHint}
-                        </div>
-                    )}
+                    {/* Mostrar la ayuda del público */}
                     {audienceData && (
                         <div className="audience-chart">
                             {quizData[currentQuestion].options.map((option, index) => (
@@ -125,6 +136,11 @@ function QuizGame({ quizData }) {
                                     <div className="audience-option">{option}</div>
                                 </div>
                             ))}
+                        </div>
+                    )}
+                    {manualHint && (
+                        <div className="manual-hint">
+                            <strong>Pista Manual:</strong> {manualHint}
                         </div>
                     )}
                 </>
