@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿En qué año se firmó el Pacto Federal, considerado el documento fundacional de Suiza?",
+        "options": [
+            "1291",
+            "1315",
+            "1499",
+            "1648"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué evento de 1515 marcó la política de neutralidad suiza tras una derrota militar?",
+        "options": [
+            "La Paz de Westfalia",
+            "La Batalla de Morgarten",
+            "La Batalla de Marignano",
+            "La Guerra de los Treinta Años"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué tratado reconoció oficialmente la independencia de Suiza del Sacro Imperio Romano Germánico?",
+        "options": [
+            "El Tratado de Verdún",
+            "El Tratado de Basilea",
+            "La Paz de Westfalia",
+            "El Tratado de Viena"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes personajes históricos NO es suizo?",
+        "options": [
+            "Jean-Jacques Rousseau",
+            "Henry Dunant",
+            "Carl Jung",
+            "Immanuel Kant"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿En qué ciudad suiza se encuentra la sede del Comité Internacional de la Cruz Roja?",
+        "options": [
+            "Berna",
+            "Zúrich",
+            "Ginebra",
+            "Lucerna"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál de estos cantones NO fue uno de los tres fundadores de la Confederación en 1291?",
+        "options": [
+            "Uri",
+            "Schwyz",
+            "Obwalden",
+            "Glaris"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Qué famosa obra de arte suiza, creada por Ferdinand Hodler, representa la resistencia de los suizos contra los invasores extranjeros?",
+        "options": [
+            "El Retiro de Marignano",
+            "La Marcha de los Confederados hacia Marignano",
+            "Los Alpes Suizos",
+            "El Juramento de Rütli"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Qué famoso escritor suizo es autor de 'La peste blanca'?",
+        "options": [
+            "Friedrich Dürrenmatt",
+            "Max Frisch",
+            "Hermann Hesse",
+            "Blaise Cendrars"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué ciudad suiza nació Carl Jung, el famoso psiquiatra y psicoanalista?",
+        "options": [
+            "Ginebra",
+            "Basilea",
+            "Zúrich",
+            "Lausana"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes principios NO está incluido en la Constitución Suiza?",
+        "options": [
+            "Federalismo",
+            "Neutralidad",
+            "Democracia directa",
+            "Monarquía constitucional"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Qué evento provocó que Suiza adoptara su política de neutralidad en 1815?",
+        "options": [
+            "El Congreso de Viena",
+            "La Guerra de los Treinta Años",
+            "El Tratado de París",
+            "La Revolución Francesa"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál es el nombre del acuerdo de 2002 que permitió que Suiza se convirtiera en miembro de la ONU?",
+        "options": [
+            "Acuerdo de Schengen",
+            "Pacto de Ginebra",
+            "Referéndum sobre la adhesión a la ONU",
+            "Tratado de Lausana"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes productos NO es típicamente suizo?",
+        "options": [
+            "El reloj de cuco",
+            "El chocolate con leche",
+            "El queso Gruyère",
+            "El ejército de mercenarios"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué significa 'Röstigraben' en el contexto suizo?",
+        "options": [
+            "Una comida tradicional suiza",
+            "Una brecha cultural y lingüística entre las regiones germanófonas y francófonas",
+            "Una antigua fortificación en los Alpes",
+            "Una festividad nacional"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál de estos ríos NO pasa por Suiza?",
+        "options": [
+            "El Ródano",
+            "El Rin",
+            "El Po",
+            "El Aare"
+        ],
+        "correct": 2
+    }
+]

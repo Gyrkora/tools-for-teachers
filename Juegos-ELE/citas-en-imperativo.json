@@ -1,0 +1,252 @@
+[
+    {
+        "question": "¿Quién dijo: 'Sé el cambio que quieres ver en el mundo'?",
+        "options": [
+            "Mahatma Gandhi",
+            "Nelson Mandela",
+            "Martin Luther King Jr.",
+            "Dalai Lama"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Hazlo o no lo hagas, pero no lo intentes'?",
+        "options": [
+            "Yoda",
+            "Confucio",
+            "Aristóteles",
+            "Bruce Lee"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Piensa antes de hablar. Lee antes de pensar'?",
+        "options": [
+            "Mark Twain",
+            "Oscar Wilde",
+            "Benjamin Franklin",
+            "Ernest Hemingway"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Levántate y vive la vida que imaginaste'?",
+        "options": [
+            "Henry David Thoreau",
+            "Ralph Waldo Emerson",
+            "Walt Whitman",
+            "Victor Hugo"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'No juzgues a cada día por la cosecha que recoges, sino por las semillas que plantas'?",
+        "options": [
+            "Robert Louis Stevenson",
+            "Paulo Coelho",
+            "Gabriel García Márquez",
+            "John Steinbeck"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Cree que puedes y ya estarás a mitad de camino'?",
+        "options": [
+            "Theodore Roosevelt",
+            "Winston Churchill",
+            "Franklin D. Roosevelt",
+            "John F. Kennedy"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Habla con tu propia voz, incluso si tiemblas'?",
+        "options": [
+            "Eleanor Roosevelt",
+            "Maya Angelou",
+            "Malala Yousafzai",
+            "Margaret Thatcher"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Conoce a tus enemigos y conoce a ti mismo, y en cien batallas nunca estarás en peligro'?",
+        "options": [
+            "Sun Tzu",
+            "Napoleón Bonaparte",
+            "Confucio",
+            "Alejandro Magno"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Nunca dejes que el miedo decida tu futuro'?",
+        "options": [
+            "Oprah Winfrey",
+            "Barack Obama",
+            "Michelle Obama",
+            "Maya Angelou"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Quién dijo: 'Trabaja como si fueras a vivir siempre, pero vive como si fueras a morir mañana'?",
+        "options": [
+            "Mahatma Gandhi",
+            "Steve Jobs",
+            "Aristóteles",
+            "Leonardo da Vinci"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Sigue tus sueños, pero no olvides el trabajo duro que los hace realidad'?",
+        "options": [
+            "Walt Disney",
+            "Elon Musk",
+            "Steve Jobs",
+            "Albert Einstein"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Aprende del pasado, vive el presente y ten esperanza en el futuro'?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Marie Curie",
+            "Nikola Tesla"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Ama a todos, confía en pocos y no hagas daño a nadie'?",
+        "options": [
+            "William Shakespeare",
+            "Friedrich Nietzsche",
+            "Jane Austen",
+            "Voltaire"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Cree en ti mismo y todo será posible'?",
+        "options": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Michael Jordan",
+            "Bruce Lee"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Quién dijo: 'Persevera y triunfarás, aunque el camino sea difícil'?",
+        "options": [
+            "Napoleón Bonaparte",
+            "Winston Churchill",
+            "Theodore Roosevelt",
+            "Abraham Lincoln"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Haz de cada día tu obra maestra'?",
+        "options": [
+            "John Wooden",
+            "Oprah Winfrey",
+            "Dalai Lama",
+            "Mahatma Gandhi"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Ve siempre más allá de lo que crees que puedes lograr'?",
+        "options": [
+            "Richard Branson",
+            "Serena Williams",
+            "Usain Bolt",
+            "Michael Phelps"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Quién dijo: 'Escucha más de lo que hablas y aprenderás más'?",
+        "options": [
+            "Dalai Lama",
+            "Confucio",
+            "Benjamin Franklin",
+            "Barack Obama"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Quién dijo: 'No dejes que nadie apague tu luz'?",
+        "options": [
+            "Rosa Parks",
+            "Malala Yousafzai",
+            "Eleanor Roosevelt",
+            "Martin Luther King Jr."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Levántate cada vez que caigas y sigue adelante'?",
+        "options": [
+            "Rocky Balboa",
+            "Muhammad Ali",
+            "Serena Williams",
+            "Nelson Mandela"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Sé curioso, no obediente'?",
+        "options": [
+            "Albert Einstein",
+            "Marie Curie",
+            "Steve Jobs",
+            "Mark Twain"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Lucha por lo que amas y nunca te rindas'?",
+        "options": [
+            "Mahatma Gandhi",
+            "Malala Yousafzai",
+            "Frida Kahlo",
+            "Barack Obama"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Aprende las reglas como un profesional, para que puedas romperlas como un artista'?",
+        "options": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Andy Warhol",
+            "Vincent van Gogh"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién dijo: 'Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre'?",
+        "options": [
+            "Dalai Lama",
+            "Mahatma Gandhi",
+            "Buddha",
+            "Confucio"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Quién dijo: 'Haz lo mejor que puedas, hasta que sepas hacerlo mejor. Entonces, hazlo mejor'?",
+        "options": [
+            "Maya Angelou",
+            "Eleanor Roosevelt",
+            "Oprah Winfrey",
+            "Michelle Obama"
+        ],
+        "correct": 0
+    }
+]

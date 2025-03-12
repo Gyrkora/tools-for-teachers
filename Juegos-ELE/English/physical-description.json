@@ -1,0 +1,252 @@
+[
+    {
+        "question": "It is a small, gray, and very fast mouse. It always has cheese in its hand.",
+        "options": [
+            "Mickey Mouse",
+            "Tom",
+            "Jerry",
+            "Speedy Gonzales"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "He is a very famous man. He has a mustache and is known as the father of the theory of relativity.",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla",
+            "Charles Darwin"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "She is a very beautiful girl. She wears a blue dress and glass slippers.",
+        "options": [
+            "Snow White",
+            "Ariel",
+            "Cinderella",
+            "Aurora"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "He is yellow, lives in the sea, and has a pineapple-shaped house.",
+        "options": [
+            "Patrick Star",
+            "SpongeBob SquarePants",
+            "Squidward",
+            "Plankton"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a gray donkey who always talks a lot and is Shrek's best friend.",
+        "options": [
+            "Donkey",
+            "Puss in Boots",
+            "Dragon",
+            "Pinocchio"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "She is a princess with a yellow dress. She has a castle and a friend who is a beast.",
+        "options": [
+            "Cinderella",
+            "Belle",
+            "Aurora",
+            "Jasmine"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He was a very famous man in Egypt. He has a tomb full of gold and was a pharaoh.",
+        "options": [
+            "Cleopatra",
+            "Tutankhamun",
+            "Ramses II",
+            "Nefertiti"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a white and gray rabbit who always eats carrots and has a famous catchphrase: 'What's up, doc?'.",
+        "options": [
+            "Bugs Bunny",
+            "Daffy Duck",
+            "Elmer Fudd",
+            "Speedy Gonzales"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a famous musician. He wears a white suit, plays the guitar, and is known as the 'King of Rock'.",
+        "options": [
+            "Freddie Mercury",
+            "Elvis Presley",
+            "Michael Jackson",
+            "Chuck Berry"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a very famous musician. He has long hair, wears a hat, and is known for playing the guitar in Guns N' Roses.",
+        "options": [
+            "Slash",
+            "Jimi Hendrix",
+            "Eric Clapton",
+            "Freddie Mercury"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a very famous painter. He has a unique style with geometric shapes and strong colors. He is Spanish.",
+        "options": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Diego Velázquez",
+            "Joan Miró"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a famous classical musician. He has white hair and is known for the 'Ninth Symphony'.",
+        "options": [
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven",
+            "Johann Sebastian Bach",
+            "Antonio Vivaldi"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a very well-known painter. He has a long mustache and uses a surrealist style. He is famous for 'The Persistence of Memory'.",
+        "options": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Claude Monet",
+            "Andy Warhol"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a famous musician. He wears a white glove and is known as the 'King of Pop'.",
+        "options": [
+            "Michael Jackson",
+            "Elvis Presley",
+            "Prince",
+            "Freddie Mercury"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a very famous Italian artist. He is known for painting the 'Mona Lisa' and for his inventions.",
+        "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Donatello"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a famous Dutch painter. He has small ears because he cut part of one and painted 'Starry Night'.",
+        "options": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Paul Gauguin",
+            "Rembrandt"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a very famous singer. He wears round glasses and was part of The Beatles.",
+        "options": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a very well-known jazz musician. He plays the trumpet and has a big smile. He is famous for 'What a Wonderful World'.",
+        "options": [
+            "Louis Armstrong",
+            "Miles Davis",
+            "Duke Ellington",
+            "John Coltrane"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is a famous French painter. He has an impressionist style and painted 'Impression, Sunrise'.",
+        "options": [
+            "Claude Monet",
+            "Edgar Degas",
+            "Pierre-Auguste Renoir",
+            "Paul Cézanne"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "He is an Argentine soccer player. He has short hair, wears number 10, and is known as 'La Pulga'.",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Diego Maradona",
+            "Sergio Agüero"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He is a very tall basketball player. He has six NBA championships and played with the Chicago Bulls.",
+        "options": [
+            "Kobe Bryant",
+            "LeBron James",
+            "Michael Jordan",
+            "Shaquille O'Neal"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "He is a famous British singer. He plays the piano in almost all his concerts and sings 'Rocket Man'.",
+        "options": [
+            "Freddie Mercury",
+            "Elton John",
+            "Paul McCartney",
+            "David Bowie"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "She is a famous actress. She has blonde hair and is known for the movie 'The Hunger Games'.",
+        "options": [
+            "Scarlett Johansson",
+            "Jennifer Lawrence",
+            "Emma Watson",
+            "Natalie Portman"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "He was a famous president of South Africa. He won the Nobel Peace Prize and fought against apartheid.",
+        "options": [
+            "Nelson Mandela",
+            "Barack Obama",
+            "Desmond Tutu",
+            "Kofi Annan"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "She is a famous Colombian singer. She has blonde hair, sings 'Hips Don't Lie', and dances very well.",
+        "options": [
+            "Shakira",
+            "Karol G",
+            "Rosalía",
+            "Thalía"
+        ],
+        "correct": 0
+    }
+]

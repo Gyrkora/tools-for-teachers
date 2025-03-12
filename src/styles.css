@@ -114,6 +114,7 @@ body {
 .audience-chart {
   margin-top: 20px;
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
   align-items: flex-end;
   /* Ensures bars align at the bottom */
@@ -126,12 +127,24 @@ body {
 }
 
 .audience-bar-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   text-align: center;
   width: 20%;
   /* Evenly space the bars */
   position: relative;
+  margin-bottom: 30px;
   /* For better positioning of labels */
 }
+
+/* @media (min-width: 768px) {
+  .audience-chart {
+    display: flex;
+    flex-direction: row;
+  }
+} */
 
 .audience-bar {
   background-color: #007bff;
@@ -322,6 +335,8 @@ body {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   gap: 10px;
 }
 
@@ -462,7 +477,7 @@ body {
 /* numeros aleatorios */
 
 
-body {
+/* body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f9;
   margin: 0;
@@ -471,7 +486,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-}
+} */
 
 .container {
   background-color: #fff;
@@ -528,4 +543,16 @@ p {
   font-size: 18px;
   color: #333;
   margin-top: 10px;
+}
+
+
+/* modificaciones temporales */
+
+.question-container p,
+.question-container h2 {
+  color: white;
+}
+
+h3 {
+  color: black;
 }

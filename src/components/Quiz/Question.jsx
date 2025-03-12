@@ -39,7 +39,7 @@ function Question({ data, handleAnswer, selected, remainingOptions }) {
             setTimeout(() => {
                 setShowDragTheWord(false); // Oculta Drag the Word
                 setShowConfirmation(false); // Oculta mensaje de confirmación
-            }, 2000);
+            }, 5000);
         }
     };
 
@@ -57,15 +57,15 @@ function Question({ data, handleAnswer, selected, remainingOptions }) {
 
     return (
         <div className="question-container">
-            <h2>Pregunta</h2>
+            {/* <h2>Pregunta</h2> */}
 
             {/* Pregunta */}
-            <p>{data.question}</p>
+            <h2>{data.question}</h2>
 
             {/* Botón para desordenar palabras */}
-            <button onClick={handleShuffle} style={{ marginTop: '20px' }}>
+            {/* <button onClick={handleShuffle} style={{ marginTop: '20px' }}>
                 Desordenar Palabras
-            </button>
+            </button> */}
 
             {/* Drag the Word */}
             {showDragTheWord && (

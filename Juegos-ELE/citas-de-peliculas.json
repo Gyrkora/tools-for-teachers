@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿En qué película se dice: 'Sigue nadando, sigue nadando'?",
+        "options": [
+            "Buscando a Nemo",
+            "Toy Story",
+            "Shrek",
+            "La Sirenita"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Que la Fuerza te acompañe'?",
+        "options": [
+            "Star Wars",
+            "Star Trek",
+            "Avatar",
+            "El Señor de los Anillos"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Libera tu mente'?",
+        "options": [
+            "Matrix",
+            "Origen",
+            "Blade Runner",
+            "El Club de la Pelea"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Hazlo o no lo hagas, pero no lo intentes'?",
+        "options": [
+            "Star Wars: El Imperio Contraataca",
+            "El Hobbit",
+            "Harry Potter",
+            "Avatar"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Di hola a mi pequeño amigo'?",
+        "options": [
+            "El Padrino",
+            "Scarface",
+            "Buenos Muchachos",
+            "Casino"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿En qué película se dice: 'No corras, camina lentamente y sonríe'?",
+        "options": [
+            "Forrest Gump",
+            "Titanic",
+            "El Diablo Viste a la Moda",
+            "Mujer Bonita"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿En qué película se dice: 'Haz que cuente'?",
+        "options": [
+            "Titanic",
+            "Avatar",
+            "El Gran Gatsby",
+            "Cisne Negro"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Mantén a tus amigos cerca y a tus enemigos más cerca'?",
+        "options": [
+            "El Padrino II",
+            "Scarface",
+            "El Caballero de la Noche",
+            "Gladiador"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Vive mucho y prospera'?",
+        "options": [
+            "Star Trek",
+            "Star Wars",
+            "2001: Odisea en el Espacio",
+            "Interstellar"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'No olvides quién eres'?",
+        "options": [
+            "El Rey León",
+            "Mulan",
+            "Hércules",
+            "Pocahontas"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Haz que suceda'?",
+        "options": [
+            "La La Land",
+            "Whiplash",
+            "Rocky",
+            "El Gran Showman"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿En qué película se dice: 'Llamadme señor Anderson'?",
+        "options": [
+            "Matrix",
+            "El Código Enigma",
+            "Origen",
+            "Minority Report"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Muestra lo que vales'?",
+        "options": [
+            "Mulan",
+            "Ratatouille",
+            "Los Increíbles",
+            "Kung Fu Panda"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Corre, Forrest, corre'?",
+        "options": [
+            "Forrest Gump",
+            "Rocky",
+            "Misión Imposible",
+            "Rápidos y Furiosos"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué película se dice: 'Llámame por mi nombre verdadero'?",
+        "options": [
+            "El Rey León",
+            "Batman Inicia",
+            "Gladiador",
+            "El Club de la Pelea"
+        ],
+        "correct": 2
+    }
+]

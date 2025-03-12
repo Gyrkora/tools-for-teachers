@@ -1,0 +1,342 @@
+[
+    {
+        "question": "Es un ratón pequeño, gris y muy rápido. Siempre tiene queso en la mano.",
+        "options": [
+            "Mickey Mouse",
+            "Tom",
+            "Jerry",
+            "Speedy Gonzales"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Es un hombre muy famoso. Tiene un bigote y es conocido como el padre de la teoría de la relatividad.",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla",
+            "Charles Darwin"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es una chica muy bonita. Tiene un vestido azul y usa zapatos de cristal.",
+        "options": [
+            "Blancanieves",
+            "Ariel",
+            "Cenicienta",
+            "Aurora"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Es amarillo, vive en el mar y tiene una casa en forma de piña.",
+        "options": [
+            "Patricio Estrella",
+            "Bob Esponja",
+            "Calamardo",
+            "Plankton"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un burro gris que siempre habla mucho y es el mejor amigo de Shrek.",
+        "options": [
+            "Burro",
+            "El gato con botas",
+            "Dragona",
+            "Pinocho"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es una princesa con un vestido amarillo. Tiene un castillo y un amigo que es una bestia.",
+        "options": [
+            "Cenicienta",
+            "Bella",
+            "Aurora",
+            "Jazmín"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un hombre muy famoso en Egipto. Tiene una tumba llena de oro y fue un faraón.",
+        "options": [
+            "Cleopatra",
+            "Tutankamón",
+            "Ramsés II",
+            "Nefertiti"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un conejo blanco y gris que siempre come zanahorias y tiene una frase famosa: '¿Qué hay de nuevo, viejo?'.",
+        "options": [
+            "Bugs Bunny",
+            "Pato Lucas",
+            "Elmer Gruñón",
+            "Speedy Gonzales"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un músico famoso. Tiene un traje blanco, usa una guitarra y es conocido como el 'Rey del Rock'.",
+        "options": [
+            "Freddie Mercury",
+            "Elvis Presley",
+            "Michael Jackson",
+            "Chuck Berry"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un músico muy famoso. Tiene un cabello largo y usa un sombrero. Es conocido por tocar la guitarra en Guns N' Roses.",
+        "options": [
+            "Slash",
+            "Jimi Hendrix",
+            "Eric Clapton",
+            "Freddie Mercury"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un pintor muy famoso. Tiene un estilo único con formas geométricas y colores fuertes. Es español.",
+        "options": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Diego Velázquez",
+            "Joan Miró"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un músico famoso por su música clásica. Tiene una peluca blanca y es conocido por la 'Novena Sinfonía'.",
+        "options": [
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven",
+            "Johann Sebastian Bach",
+            "Antonio Vivaldi"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un pintor muy conocido. Tiene un bigote largo y usa un estilo surrealista. Es famoso por su obra 'La persistencia de la memoria'.",
+        "options": [
+            "Pablo Picasso",
+            "Salvador Dalí",
+            "Claude Monet",
+            "Andy Warhol"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un músico famoso. Tiene un guante blanco y es conocido como el 'Rey del Pop'.",
+        "options": [
+            "Michael Jackson",
+            "Elvis Presley",
+            "Prince",
+            "Freddie Mercury"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un artista italiano muy famoso. Es conocido por pintar la 'Mona Lisa' y también por sus inventos.",
+        "options": [
+            "Miguel Ángel",
+            "Leonardo da Vinci",
+            "Rafael",
+            "Donatello"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un pintor holandés famoso. Tiene orejas pequeñas porque se cortó una parte y pintó 'La noche estrellada'.",
+        "options": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Paul Gauguin",
+            "Rembrandt"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un cantante muy famoso. Tiene gafas redondas y fue parte de la banda The Beatles.",
+        "options": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un músico de jazz muy conocido. Tiene una trompeta y una sonrisa grande. Es famoso por 'What a Wonderful World'.",
+        "options": [
+            "Louis Armstrong",
+            "Miles Davis",
+            "Duke Ellington",
+            "John Coltrane"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un pintor francés famoso. Tiene un estilo impresionista y pintó 'Impresión, sol naciente'.",
+        "options": [
+            "Claude Monet",
+            "Edgar Degas",
+            "Pierre-Auguste Renoir",
+            "Paul Cézanne"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un jugador de fútbol argentino. Tiene cabello corto, usa el número 10 y es conocido como 'La Pulga'.",
+        "options": [
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Diego Maradona",
+            "Sergio Agüero"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un jugador de baloncesto muy alto. Tiene seis campeonatos de la NBA y jugó con los Chicago Bulls.",
+        "options": [
+            "Kobe Bryant",
+            "LeBron James",
+            "Michael Jordan",
+            "Shaquille O'Neal"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Es un cantante británico famoso. Tiene un piano en casi todos sus conciertos y canta 'Rocket Man'.",
+        "options": [
+            "Freddie Mercury",
+            "Elton John",
+            "Paul McCartney",
+            "David Bowie"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es una actriz famosa. Tiene cabello rubio y es conocida por la película 'Los juegos del hambre'.",
+        "options": [
+            "Scarlett Johansson",
+            "Jennifer Lawrence",
+            "Emma Watson",
+            "Natalie Portman"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un presidente famoso de Sudáfrica. Tiene el Premio Nobel de la Paz y luchó contra el apartheid.",
+        "options": [
+            "Nelson Mandela",
+            "Barack Obama",
+            "Desmond Tutu",
+            "Kofi Annan"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es una cantante colombiana. Tiene cabello rubio, canta 'Hips Don't Lie' y baila muy bien.",
+        "options": [
+            "Shakira",
+            "Karol G",
+            "Rosalía",
+            "Thalía"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un científico famoso. Tiene una teoría sobre la evolución y escribió 'El origen de las especies'.",
+        "options": [
+            "Charles Darwin",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Stephen Hawking"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un actor de películas de acción. Tiene músculos grandes y es conocido por decir 'I'll be back'.",
+        "options": [
+            "Arnold Schwarzenegger",
+            "Sylvester Stallone",
+            "Dwayne Johnson",
+            "Bruce Willis"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es una pintora mexicana famosa. Tiene un estilo único y pintó muchos autorretratos.",
+        "options": [
+            "Frida Kahlo",
+            "Remedios Varo",
+            "Leonora Carrington",
+            "Tamara de Lempicka"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un futbolista portugués. Tiene cabello oscuro, usa el número 7 y juega en equipos famosos.",
+        "options": [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Neymar",
+            "Pelé"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un físico británico. Tiene una enfermedad que afecta sus músculos y escribió 'Breve historia del tiempo'.",
+        "options": [
+            "Isaac Newton",
+            "Stephen Hawking",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es una actriz estadounidense. Tiene cabello corto y ganó un Oscar por su papel en 'Ghost'.",
+        "options": [
+            "Meryl Streep",
+            "Demi Moore",
+            "Julia Roberts",
+            "Sandra Bullock"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un rey francés muy famoso. Tiene el apodo de 'El Rey Sol'.",
+        "options": [
+            "Luis XIV",
+            "Luis XVI",
+            "Francisco I",
+            "Carlos V"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Es un cantante canadiense. Tiene cabello castaño y canta 'Sorry' y 'Baby'.",
+        "options": [
+            "Shawn Mendes",
+            "Justin Bieber",
+            "Drake",
+            "The Weeknd"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Es un boxeador estadounidense. Tiene guantes rojos y es conocido como 'El más grande'.",
+        "options": [
+            "Mike Tyson",
+            "Muhammad Ali",
+            "Floyd Mayweather",
+            "Evander Holyfield"
+        ],
+        "correct": 1
+    }
+]

@@ -40,7 +40,7 @@ function QuizGame({ quizData }) {
             setStatus('¡Correcto!');
         } else {
             setStatus(
-                `Incorrecto. La respuesta correcta era: ${
+                `Incorrecto. La respuesta correcta es: ${
                     quizData[currentQuestion].options[quizData[currentQuestion].correct]
                 }`
             );
@@ -57,7 +57,7 @@ function QuizGame({ quizData }) {
             } else {
                 setStatus(`Juego terminado. Tu puntuación es ${score + 1} de ${quizData.length}`);
             }
-        }, 1000);
+        }, 2000);
     };
 
     const handleFiftyFifty = () => {

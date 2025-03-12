@@ -1,0 +1,92 @@
+[
+    {
+        "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+        "options": [
+            "1776",
+            "1789",
+            "1804",
+            "1812"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "John Adams",
+            "Abraham Lincoln"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál fue la principal causa de la Guerra de Secesión en EE.UU.?",
+        "options": [
+            "La esclavitud",
+            "El control de las colonias británicas",
+            "El derecho al voto de las mujeres",
+            "El expansionismo hacia el oeste"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué presidente de EE.UU. abolió la esclavitud?",
+        "options": [
+            "Abraham Lincoln",
+            "Andrew Jackson",
+            "Theodore Roosevelt",
+            "Franklin D. Roosevelt"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué evento provocó la entrada de EE.UU. en la Segunda Guerra Mundial?",
+        "options": [
+            "El ataque a Pearl Harbor",
+            "La invasión de Polonia",
+            "El hundimiento del Lusitania",
+            "El bombardeo de Hiroshima"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿En qué año ocurrió la Gran Depresión en EE.UU.?",
+        "options": [
+            "1929",
+            "1914",
+            "1945",
+            "1890"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué movimiento luchó por los derechos civiles de los afroamericanos en los años 50 y 60?",
+        "options": [
+            "El Movimiento por los Derechos Civiles",
+            "El Movimiento del Tea Party",
+            "El Movimiento de los Derechos de los Trabajadores",
+            "El Movimiento de la Constitución"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué presidente fue asesinado en Dallas en 1963?",
+        "options": [
+            "John F. Kennedy",
+            "Richard Nixon",
+            "Dwight D. Eisenhower",
+            "Lyndon B. Johnson"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál fue el primer estado en unirse a los Estados Unidos después de los 13 originales?",
+        "options": [
+            "Vermont",
+            "Kentucky",
+            "Delaware",
+            "Ohio"
+        ],
+        "correct": 2
+    }
+]
